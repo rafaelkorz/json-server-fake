@@ -11,4 +11,9 @@
   "profile": {
     "name": "typicode"
   }
+  "login": [
+    {"user": "admin"},
+    {"password": "123"},
+    {"token": "123tokenOK123"}
+  ]
 }
