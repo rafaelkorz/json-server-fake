@@ -1,13 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {"name": "typicode"},
-  "login": {"user": "admin", "password": "123", "token": "123tokenOK123"}
+	"results": [
+		{"code": 7003, "group": 1, "value": 34},
+		{"code": 7003, "group": 2, "value": 5},
+		{"code": 7003, "group": 3, "value": 6},
+		{"code": 7003, "group": 4, "value": 7},
+		{"code": 7003, "group": 10, "value": 3},
+		{"code": 7003, "group": 12, "value": 7},
+		{"code": 7003, "group": 15, "value": 9},
+		{"code": 7003, "group": 16, "value": 4},
+		{"code": 7003, "group": 19, "value": 8},
+		{"code": 7006, "group": 1, "value": 99},
+		{"code": 7006, "group": 2, "value": 43},
+		{"code": 7006, "group": 3, "value": 465},
+		{"code": 7006, "group": 4, "value": 45},
+		{"code": 7006, "group": 10, "value": 6},
+		{"code": 7006, "group": 12, "value": 2},
+		{"code": 7006, "group": 15, "value": 6},
+		{"code": 7006, "group": 16, "value": 1},
+		{"code": 7006, "group": 19, "value": 675},
+		{"code": 7017, "group": 1, "value": 78},
+		{"code": 7017, "group": 2, "value": 6},
+		{"code": 7017, "group": 3, "value": 567},
+		{"code": 7017, "group": 4, "value": 56},
+		{"code": 7017, "group": 10, "value": 567},
+		{"code": 7017, "group": 12, "value": 9},
+		{"code": 7017, "group": 15, "value": 8},
+		{"code": 7017, "group": 16, "value": 6},
+		{"code": 7017, "group": 19, "value": 5},
+	]
 }
