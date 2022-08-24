@@ -27,6 +27,6 @@
   { "id": 24, "code": 7017, "group": 12, "value": 9, "isItemSelected": true },
   { "id": 25, "code": 7017, "group": 15, "value": 8, "isItemSelected": true },
   { "id": 26, "code": 7017, "group": 16, "value": 6, "isItemSelected": true },
-  { "id": 27, "code": 7017, "group": 19, "value": 5, "isItemSelected": true },
+  { "id": 27, "code": 7017, "group": 19, "value": 5, "isItemSelected": true }
 ]
 }
