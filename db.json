@@ -1,5 +1,5 @@
 {
-"results": [
+"data": [
   { "id": 1, "code": 7003, "group": 1, "value": 34, "isItemSelected": true },
   { "id": 2, "code": 7003, "group": 2, "value": 5, "isItemSelected": false },
   { "id": 3, "code": 7003, "group": 3, "value": 6, "isItemSelected": true },
