@@ -1,6 +1,6 @@
 {
-	"results": [
- { id: 1, code: 7003, group: 1, value: 34, isItemSelected: true },
+"results": [
+  { id: 1, code: 7003, group: 1, value: 34, isItemSelected: true },
   { id: 2, code: 7003, group: 2, value: 5, isItemSelected: false },
   { id: 3, code: 7003, group: 3, value: 6, isItemSelected: true },
   { id: 4, code: 7003, group: 4, value: 7, isItemSelected: true },
@@ -27,5 +27,5 @@
   { id: 25, code: 7017, group: 15, value: 8, isItemSelected: true },
   { id: 26, code: 7017, group: 16, value: 6, isItemSelected: true },
   { id: 27, code: 7017, group: 19, value: 5, isItemSelected: true },
-	]
+]
 }
